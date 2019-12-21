@@ -11,7 +11,7 @@ Are we able to identify features of successful companies as determined by our de
 
 Objective
 
-Use Dimensionality Reduction methods and Clustering Algorithms to view distinct classes
+Use Dimensionality Reduction methods and Clustering Algorithms to view relationships in the distinct clusters
 
 Summary
 
