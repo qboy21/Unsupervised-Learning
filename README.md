@@ -1,7 +1,7 @@
 # Unsupervised-Learning
-Exploratory Analysis of Startup
-
 Summary
+
+Exploratory Analysis of Startup Investments through Dimensionality Reduction and Clustering Algorithms
 
 Key Findings
 
